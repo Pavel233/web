@@ -1,0 +1,571 @@
+.laba6
+{
+    position: relative;
+    top: -10px;
+    left: -10px;
+}
+
+.menu
+{
+    margin-left: 480px;
+}
+
+.menu1
+{
+    float: left;
+    background-color: #15a98c;	
+    padding-bottom: 5px;
+}
+
+.menu2
+{
+    float: left;
+}
+
+.name_menu1
+{
+    font-size: 19px;
+    line-height: 32px;
+    color: #f5f5f5;
+    font-family: Georgia;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 5px;
+}
+
+.name_menu2
+{
+    font-size: 19px;
+    line-height: 32px;
+    color: #333333;
+    font-family: Georgia;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.name_menu3
+{
+    font-size: 19px;
+    line-height: 32px;
+    color: #333333;
+    font-family: Georgia;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+.icon
+{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.icon2
+{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.icon3
+{
+    margin-left: 40px;
+    margin-top: 20px
+}
+
+.photo
+{
+    position: absolute;
+    top: 260px;
+    width: 330px;
+    margin-left: 480px;
+    border-radius: 5px;
+}
+
+.quote
+{
+    position: absolute;
+    top: 170px;
+    left: 470px;
+    margin-left: 390px;
+    margin-bottom: 200px;
+    width: 600px;	
+} 
+
+.word
+{
+    position: absolute;
+    top: 90px;
+    font-size: 28px;
+    line-height: 42px;
+    color: #FFFFFF;
+    font-family: Georgia;
+    font-style: Italic;	
+    margin-left: 20px;
+}
+
+.author
+{
+    position: absolute;
+    top: 210px;
+    margin-left: 20px;
+    font-size: 16px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    font-weight: 700;
+}	
+	
+.main
+{
+    position: absolute;
+    left: 875px;
+    top: 450px;
+    width: 558px;
+    float: right;
+}
+
+.head1
+{
+    margin: 0;
+    margin-top: 40px;
+    font-size: 48px;
+    color: #333333;
+    font-family: Open Sans;	
+}
+
+.rectangle
+{
+    margin-top: 15px;	
+}	
+
+.text1
+{
+    margin-top: 35px;
+    width: 507px;
+    font-size: 19px;
+    line-height: 32px;
+    color: #555555;
+    font-family: Georgia;
+}
+
+.head2
+{
+    margin: 0;
+    margin-top: 45px;
+    font-size: 35px;
+    line-height: 42px;
+    color: #333333;
+    font-family: Open Sans;
+    font-weight: 500;	
+}
+
+.text2
+{
+    margin: 0;
+    margin-top: 15px;
+    width: 570px;
+    font-size: 19px;
+    line-height: 32px;
+    color: #555555;
+    font-family: Georgia;
+}	
+
+.in_extra_text
+{
+    text-decoration: underline;
+    float: left;
+}
+
+.extra_text
+{
+    margin-top: 40px;
+    width: 562px;
+    line-height: 32px;
+    color: #15a98b;
+    font-family: Georgia;
+    font-size: 19px;
+    color: #15a98b;
+}	
+
+.symbol
+{
+    margin: 0;
+    font-size: 25px;
+}	
+
+.list
+{
+    position: absolute;
+    top: 625px;
+    left: 480px;
+}
+
+.head3_1
+{
+    font-size: 24px;
+    line-height: 32px;
+    color: #15a98c;
+    font-family: Open Sans;
+    font-weight: 500;
+}	
+
+.writers
+{
+    position: absolute;
+    top: 55px;
+    padding: 0;
+    margin-left: 25px;
+    width: 330px;
+    font-size: 19px;
+    line-height: 36px;
+    color: #555555;
+    font-family: Georgia;
+}
+
+.films
+{
+    position: absolute;
+    top: 290px;
+    padding: 0;
+    margin-left: 25px;
+    width: 330px;
+    font-size: 19px;
+    line-height: 36px;
+    color: #555555;
+    font-family: Georgia;
+}
+
+.head3_2
+{
+    position: absolute;
+    top: 230px;
+    font-size: 24px;
+    line-height: 32px;
+    color: #15a98c;
+    font-family: Open Sans;
+    font-weight: 500;
+}	
+	
+.favorite_films
+{
+    position: absolute;
+    top: 1205px;
+    padding-left: 360px;
+    padding-bottom: 150px;
+    padding-right: 200px;
+    background-color: #F5F5F5;
+}
+
+.name_favorite_films
+{
+    font-size: 36px;
+    line-height: 42px;
+    color: #333333;
+    font-family: Open Sans;
+    font-weight: 400;
+}
+
+.film1
+{
+    margin-top: 5px;
+    width: 285px;
+    float: left;
+}
+
+.photo_film1
+{
+    padding-top: 15px;
+    height: 175px;
+    width: 285px;
+    border-radius: 5px;
+    background-color: #464646;
+}
+
+.name_film1
+{
+    margin: 0;
+    margin-top: 20px;
+    font-size: 22px;
+    line-height: 32px;
+    color: #333333;
+    font-family: Open Sans;
+    font-weight: 700;
+}
+
+.text_film1
+{
+    width: 285px;
+    font-size: 16px;
+    line-height: 28px;
+    color: #555555;
+    font-family: Georgia;
+}
+
+.film2
+{
+    width: 285px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 5px;	
+}
+
+.photo_film2
+{
+    border-radius: 5px;
+}
+
+.name_film2
+{
+    margin: 0;
+    margin-top: 20px;
+    font-size: 22px;
+    line-height: 32px;
+    color: #333333;
+    font-family: Open Sans;
+    font-weight: 700;
+}
+
+.text_film2
+{
+    width: 285px;
+    font-size: 16px;
+    line-height: 28px;
+    color: #555555;
+    font-family: Georgia;
+}
+
+.film3
+{
+    width: 285px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.photo_film3
+{
+    border-radius: 5px;
+}
+
+.name_film3
+{
+    margin: 0;
+    margin-top: 20px;
+    font-size: 22px;
+    line-height: 32px;
+    color: #333333;
+    font-family: Open Sans;
+    font-weight: 700;	
+}
+
+.text_film3
+{
+    width: 285px;
+    font-size: 16px;
+    line-height: 28px;
+    color: #555555;
+    font-family: Georgia;
+}
+
+.film4
+{
+    width: 285px;
+    margin-left: 20px;
+    margin-top: 5px;
+    display: inline-block;
+}
+
+.photo_film4
+{
+    border-radius: 5px;
+}
+
+.name_film4
+{
+    margin: 0;
+    margin-top: 20px;
+    font-size: 22px;
+    line-height: 32px;
+    color: #333333;
+    font-family: Open Sans;
+    font-weight: 700;	
+}
+
+.text_film4
+{
+    width: 280px;
+    font-size: 16px;
+    line-height: 28px;
+    color: #555555;
+    font-family: Georgia;
+}
+
+.button
+{
+    position: absolute; 
+    top: 930px;
+    left: 845px;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-right: 60px;
+    font-size: 19px;
+    color: #f5f5f5;
+    font-family: Georgia;
+    border-radius: 5px;
+    background-color: #15a98c;
+}
+
+.full_form
+{
+    position: absolute;
+    top: 2260px;
+    left: 690px;	
+}
+
+.name_full_form
+{
+    font-size: 36px;
+    line-height: 42px;
+    color: #333333;
+    font-family: Open Sans;
+    font-weight: 300;
+    margin-left: 140px;
+    margin-bottom: 65px;
+}
+
+.form_text_required
+{
+    font-size: 20px;
+    line-height: 32px;
+    color: #333333;
+    font-family: Open Sans;
+    font-weight: 400;
+}
+
+.name_field_input_text
+{
+    margin-top: 5px;
+    margin-bottom: 25px;
+    width: 540px;
+    height: 45px;
+    border: 1px solid #ccc;
+    font-size: 18px;
+    font-family: Open Sans;
+    border-radius: 3px;
+}
+
+.name_field_input_text:focus
+{
+    border: 2px solid #15a98c;
+}
+
+.email_field_input_text
+{
+    width: 540px;
+    height: 45px;
+    border: 1px solid #ccc;
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-family: Open Sans;
+    border-radius: 3px;
+}
+
+.email_field_input_text:focus
+{
+    border: 2px solid #15a98c;
+}
+
+.form_text
+{
+    font-size: 20px;
+    line-height: 32px;
+    color: #333333;
+    font-family: Open Sans;
+    font-weight: 400;
+}
+
+.country_field
+{
+    width: 540px;
+    height: 50px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    font-size: 18px;
+    font-family: Open Sans;
+    margin-bottom: 30px;
+}
+
+.country_field:focus
+{
+    border: 2px solid #15a98c;
+}
+
+.form_text_gender_margin
+{
+    margin: 0;
+    font-size: 20px;
+    line-height: 32px;
+    color: #333333;
+    font-family: Open Sans;
+    font-weight: 400;
+    margin-bottom: -15px;
+}
+
+.gender_radio
+{
+    margin: 0;
+}
+
+.gender
+{
+    margin-left: 5px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    line-height: 32px;
+    color: #333333;
+    font-family: Open Sans;
+    font-weight: 400;
+}
+
+.gender_radio_female
+{
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+.form_text_message
+{
+    font-size: 20px;
+    line-height: 32px;
+    color: #333333;
+    font-family: Open Sans;
+    font-weight: 400;
+}
+
+.message_input_text
+{
+    width: 535px;
+    height: 145px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    margin-top: 5px;
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.message_input_text:focus
+{
+    border: 2px solid #15a98c;
+}
+
+.submit
+{
+    font-size: 19px;
+    line-height: 32px;
+    color: #f5f5f5;
+    font-family: Georgia;
+    width: 220px;
+    height: 55px;
+    border-radius: 5px;
+    background-color: #15a98c;
+}
+
